@@ -9,9 +9,9 @@ My approach was to build it roughly similar without using Chrome Dev Tools.
 
 ## Technologies
 
--HTMl
--CSS
+- HTMl
+- CSS
 
 ### Todo
-+ Add media query CSS for the search bar. (Googles search bar adjusts below a certain screen-size) 
-+ Change footer two go into two lines like on the original Google page. 
++ Add media queries for the search bar. (Googles search bar adjusts below a certain screen-size, in this state it is optimized only for larger screens.) 
++ Change footer to split up into two lines similar to the original Google page. 
